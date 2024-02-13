@@ -1,0 +1,16 @@
+.header {
+    text-align: center;
+}
+
+button {
+    background-color: rgb(98, 98, 241);
+}
+
+.flex-container {
+    display : flex;
+    
+}
+
+.flex-item {
+    margin : 10px;
+}
